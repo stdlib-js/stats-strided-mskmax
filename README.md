@@ -199,7 +199,7 @@ console.log( v );
 
 -   <span class="package-name">[`@stdlib/stats-strided/dmskmax`][@stdlib/stats/strided/dmskmax]</span><span class="delimiter">: </span><span class="description">calculate the maximum value of a double-precision floating-point strided array according to a mask.</span>
 -   <span class="package-name">[`@stdlib/stats-strided/max`][@stdlib/stats/strided/max]</span><span class="delimiter">: </span><span class="description">calculate the maximum value of a strided array.</span>
--   <span class="package-name">[`@stdlib/stats-base/mskmin`][@stdlib/stats/base/mskmin]</span><span class="delimiter">: </span><span class="description">calculate the minimum value of a strided array according to a mask.</span>
+-   <span class="package-name">[`@stdlib/stats-strided/mskmin`][@stdlib/stats/strided/mskmin]</span><span class="delimiter">: </span><span class="description">calculate the minimum value of a strided array according to a mask.</span>
 -   <span class="package-name">[`@stdlib/stats-base/nanmax`][@stdlib/stats/base/nanmax]</span><span class="delimiter">: </span><span class="description">calculate the maximum value of a strided array, ignoring NaN values.</span>
 -   <span class="package-name">[`@stdlib/stats-strided/smskmax`][@stdlib/stats/strided/smskmax]</span><span class="delimiter">: </span><span class="description">calculate the maximum value of a single-precision floating-point strided array according to a mask.</span>
 
@@ -291,7 +291,7 @@ Copyright &copy; 2016-2025. The Stdlib [Authors][stdlib-authors].
 
 [@stdlib/stats/strided/max]: https://github.com/stdlib-js/stats-strided-max
 
-[@stdlib/stats/base/mskmin]: https://github.com/stdlib-js/stats-base-mskmin
+[@stdlib/stats/strided/mskmin]: https://github.com/stdlib-js/stats-strided-mskmin
 
 [@stdlib/stats/base/nanmax]: https://github.com/stdlib-js/stats-base-nanmax
 
