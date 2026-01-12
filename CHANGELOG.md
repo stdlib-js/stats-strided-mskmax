@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`1e61003`](https://github.com/stdlib-js/stdlib/commit/1e610036abcefe23cb1ea91e8c2308352323a47f) - **refactor:** remove unreachable path _(by Athan Reines)_
 -   [`18f7a74`](https://github.com/stdlib-js/stdlib/commit/18f7a74934a8c1d64798818b20e03c353f4db981) - **test:** fix supplied arguments in fifth argument tests _(by Philipp Burckhardt)_
 -   [`5e66c6b`](https://github.com/stdlib-js/stdlib/commit/5e66c6b607019fb254c45fe269011000e81b862c) - **docs:** fix return annotation _(by Philipp Burckhardt)_
 -   [`2035f34`](https://github.com/stdlib-js/stdlib/commit/2035f344a1a469278042b7532f034dc6119933b3) - **docs:** add function documentation _(by Athan Reines)_
