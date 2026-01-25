@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-01-24)
+## Unreleased (2026-01-25)
 
 <section class="features">
 
@@ -32,6 +32,7 @@
 
 <details>
 
+-   [`430583e`](https://github.com/stdlib-js/stdlib/commit/430583e905716d80351b947a43631e3aa26ee257) - **refactor:** simplify package structure and remove extra browser entry _(by Philipp Burckhardt)_
 -   [`26ea808`](https://github.com/stdlib-js/stdlib/commit/26ea808b6afc4bb6db6492a9020f8325ebd2157e) - **fix:** ensure browser-specific version of package has ndarray method _(by Philipp Burckhardt)_
 -   [`95a8d60`](https://github.com/stdlib-js/stdlib/commit/95a8d60c4d73ed9df86cf640230f1874aa8be9e7) - **chore:** remove exports comment _(by Philipp Burckhardt)_
 -   [`1e61003`](https://github.com/stdlib-js/stdlib/commit/1e610036abcefe23cb1ea91e8c2308352323a47f) - **refactor:** remove unreachable path _(by Athan Reines)_
